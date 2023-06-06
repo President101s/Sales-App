@@ -1,5 +1,3 @@
-Here's a revised version of your README.md:
-
 ## Project Setup
 
 To run this project, please follow the steps below:
